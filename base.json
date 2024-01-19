@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "test",
-      "name": "不需要点播",
+      "name": "纯电视直播",
       "type": 0,
       "api": "xxx.api",
       "searchable": 1,
